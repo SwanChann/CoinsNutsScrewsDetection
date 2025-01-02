@@ -1,0 +1,2 @@
+# CoinsNutsScrewsDetection
+CVclass_BigHomework
